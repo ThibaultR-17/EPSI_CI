@@ -9,10 +9,11 @@ Positif :
     - GitLab a une large communauté open-source et propose une documentation complète pour GitLab CI/CD, ce qui permet aux utilisateurs d’obtenir facilement des ressources d’aide, des plugins, et des extensions pour répondre à des besoins spécifiques.
     - Le support GitLab (notamment dans les versions payantes) est réputé pour sa réactivité, en particulier pour les équipes professionnelles qui nécessitent un SLA (Service Level Agreement) pour leurs pipelines critiques.
 + Il s’agit d’un outil open source, il ne nous engendrera pas de coûts.
- négatif : 
- + Performances limitées avec des dépôts volumineux
+
+négatif : 
++ Performances limitées avec des dépôts volumineux
    - peuvent ralentir les performances de GitLab, en particulier lors de la navigation dans le dépôt, des révisions de code ou des fusions
- + interface complexe au début
++ interface complexe au début
    - GitLab offre une multitude de fonctionnalités (CI/CD, gestion de projet, sécurité, intégrations), ce qui peut être déstabilisant pour les nouveaux utilisateurs
 
 Instalation : 
