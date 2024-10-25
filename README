@@ -2,18 +2,20 @@ CI/CD
 GitLab :
 VERSION GRATUITE 
 Positif : 
- - Gestion d'accès : Permet de définir des rôles et des permissions spécifiques pour les membres de l'équipe, assurant ainsi une sécurité adéquate des projets.
- - Kanban basique 
- - intégration d'outils externe : 
-   Slack : Intégration permettant d'envoyer des notifications en temps réel sur les canaux Slack pour les événements GitLab, comme les mises à jour de merge requests, les commentaires et les problèmes. Cela facilite la communication au sein de l'équipe.
-   Jira : Synchronisation entre GitLab et Jira pour suivre les tickets et les tâches. Cela permet aux équipes de développement de lier leurs commits et branches à des tickets Jira, améliorant ainsi la traçabilité et la gestion des tâches.
-   Trello : Intégration pour synchroniser les cartes Trello avec des issues GitLab, permettant ainsi de gérer les tâches et les projets à travers les deux plateformes.
- - utilisable sur github pour la pipeline CI/CD
- - API robuste et compatibles
+ + Gestion d'accès : Permet de définir des rôles et des permissions spécifiques pour les membres de l'équipe, assurant ainsi une sécurité adéquate des projets.
+ + Kanban basique 
+ + intégration d'outils externe : 
+   - Slack : Intégration permettant d'envoyer des notifications en temps réel sur les canaux Slack pour les événements GitLab, comme les mises à jour de merge requests, les commentaires et les problèmes. Cela facilite la communication au sein de l'équipe.
+   - Jira : Synchronisation entre GitLab et Jira pour suivre les tickets et les tâches. Cela permet aux équipes de développement de lier leurs commits et branches à des tickets Jira, améliorant ainsi la traçabilité et la gestion des tâches.
+   - Trello : Intégration pour synchroniser les cartes Trello avec des issues GitLab, permettant ainsi de gérer les tâches et les projets à travers les deux plateformes.
+ + utilisable sur github pour la pipeline CI/CD
+ + API robuste et compatibles
 
  négatif : 
- - Performances limitées avec des dépôts volumineux
- - interface complexe au début
+ + Performances limitées avec des dépôts volumineux
+   - peuvent ralentir les performances de GitLab, en particulier lors de la navigation dans le dépôt, des révisions de code ou des fusions
+ + interface complexe au début
+   - GitLab offre une multitude de fonctionnalités (CI/CD, gestion de projet, sécurité, intégrations), ce qui peut être déstabilisant pour les nouveaux utilisateurs
 
 Instalation : 
-- tourne sur une VM Ubuntu avec 4Go ram https://about.gitlab.com/install/#ubuntu
++ tourne sur une VM Ubuntu avec 4Go ram https://about.gitlab.com/install/#ubuntu
