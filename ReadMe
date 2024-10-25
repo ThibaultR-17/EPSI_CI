@@ -1,5 +1,13 @@
 CI/CD 
 GitLab :
+VERSION GRATUITE 
 Positif : 
+ - gestion d'accès
+ - Kanban basique 
+ - intégration d'outils externe
+ - utilisable sur github pour la pipeline CI/CD
+ - API robuste et compatibles
 
-Négatif : 
+ négatif : 
+ - Si projet très gros perfs limités
+ - interface complexe au début
