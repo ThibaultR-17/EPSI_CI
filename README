@@ -14,3 +14,6 @@ Positif :
  négatif : 
  - Si projet très gros perfs limités
  - interface complexe au début
+
+Instalation : 
+- tourne sur une VM Ubuntu avec 4Go ram https://about.gitlab.com/install/#ubuntu
