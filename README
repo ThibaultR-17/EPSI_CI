@@ -4,7 +4,10 @@ VERSION GRATUITE
 Positif : 
  - Gestion d'accès : Permet de définir des rôles et des permissions spécifiques pour les membres de l'équipe, assurant ainsi une sécurité adéquate des projets.
  - Kanban basique 
- - intégration d'outils externe
+ - intégration d'outils externe : 
+   Slack : Intégration permettant d'envoyer des notifications en temps réel sur les canaux Slack pour les événements GitLab, comme les mises à jour de merge requests, les commentaires et les problèmes. Cela facilite la communication au sein de l'équipe.
+   Jira : Synchronisation entre GitLab et Jira pour suivre les tickets et les tâches. Cela permet aux équipes de développement de lier leurs commits et branches à des tickets Jira, améliorant ainsi la traçabilité et la gestion des tâches.
+   Trello : Intégration pour synchroniser les cartes Trello avec des issues GitLab, permettant ainsi de gérer les tâches et les projets à travers les deux plateformes.
  - utilisable sur github pour la pipeline CI/CD
  - API robuste et compatibles
 
