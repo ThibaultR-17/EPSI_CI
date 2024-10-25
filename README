@@ -2,7 +2,7 @@ CI/CD
 GitLab :
 VERSION GRATUITE 
 Positif : 
- - gestion d'accès
+ - Gestion d'accès : Permet de définir des rôles et des permissions spécifiques pour les membres de l'équipe, assurant ainsi une sécurité adéquate des projets.
  - Kanban basique 
  - intégration d'outils externe
  - utilisable sur github pour la pipeline CI/CD
