@@ -7,7 +7,6 @@ Positif :
    - Ce fichier YAML permet une configuration déclarative qui est facile à versionner et à maintenir dans le dépôt de code.
 + Communauté et support solide
     - GitLab a une large communauté open-source et propose une documentation complète pour GitLab CI/CD, ce qui permet aux utilisateurs d’obtenir facilement des ressources d’aide, des plugins, et des extensions pour répondre à des besoins spécifiques.
-    - Le support GitLab (notamment dans les versions payantes) est réputé pour sa réactivité, en particulier pour les équipes professionnelles qui nécessitent un SLA (Service Level Agreement) pour leurs pipelines critiques.
 + Il s’agit d’un outil open source, il ne nous engendrera pas de coûts.
 
 négatif : 
