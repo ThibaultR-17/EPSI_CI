@@ -2,7 +2,13 @@ CI/CD
 GitLab :
 VERSION GRATUITE 
 Positif : 
-
++ Configuration flexible et puissante via .gitlab-ci.yml
+   - GitLab CI/CD utilise un fichier .gitlab-ci.yml pour définir des pipelines de manière simple et transparente. Les utilisateurs peuvent configurer des workflows complexes avec des étapes parallèles, des scripts personnalisés, des déclencheurs conditionnels, et bien plus encore.
+   - Ce fichier YAML permet une configuration déclarative qui est facile à versionner et à maintenir dans le dépôt de code.
++ Communauté et support solide
+    - GitLab a une large communauté open-source et propose une documentation complète pour GitLab CI/CD, ce qui permet aux utilisateurs d’obtenir facilement des ressources d’aide, des plugins, et des extensions pour répondre à des besoins spécifiques.
+    - Le support GitLab (notamment dans les versions payantes) est réputé pour sa réactivité, en particulier pour les équipes professionnelles qui nécessitent un SLA (Service Level Agreement) pour leurs pipelines critiques.
++ Il s’agit d’un outil open source, il ne nous engendrera pas de coûts.
  négatif : 
  + Performances limitées avec des dépôts volumineux
    - peuvent ralentir les performances de GitLab, en particulier lors de la navigation dans le dépôt, des révisions de code ou des fusions
